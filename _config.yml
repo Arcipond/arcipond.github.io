@@ -20,7 +20,7 @@ callouts:
     color: green
   note:
     title: Note
-    color: green-300
+    color: green
   warning:
     title: Warning
     color: red
