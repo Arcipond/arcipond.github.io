@@ -1,8 +1,8 @@
 ---
-title : 해석학
+title : 대수
 layout : default
 parent : 수학📏
 has_children : true
-nav_order : 2
+nav_order : 5
 ---
-ㅁㄴㅇㄴㅇㅁㄴㅇ
+1 + 1 = 2

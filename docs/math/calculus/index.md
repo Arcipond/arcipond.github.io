@@ -1,8 +1,8 @@
 ---
-title : 해석학
+title : 미분적분학
 layout : default
 parent : 수학📏
 has_children : true
-nav_order : 2
+nav_order : 1
 ---
-ㅁㄴㅇㄴㅇㅁㄴㅇ
+Newton~ is~ genious~
