@@ -5,4 +5,4 @@ parent : 수학📏
 has_children : true
 nav_order : 99
 ---
-유사수학
+유사수학!
