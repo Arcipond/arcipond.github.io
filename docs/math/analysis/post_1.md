@@ -1,16 +1,15 @@
 ---
-title : Measure Theory 1
-layout : default
-parent : 해석학
+title: Measure Theory 1
+layout: default
+parent: 해석학
 grand_parent: 수학📏
-nav_order : 1
+nav_order: 1
 ---
 # Measure Theory
 
 ## Topology
 
-$$
-\tau$$가 집합 $$X$$의 부분집합들의 모임일 때, 다음 세 가지 성질을 만족하면 $$\tau$$는 $$X$$의 위상이라고 한다. ($$V \in \tau$$)
+$\tau$가 집합 $X$ 의 부분집합들의 모임일 때, 다음 세 가지 성질을 만족하면 $$\tau$$는 $$X$$의 위상이라고 한다. ($$V \in \tau$$)
 
 >  (i) $$\empty \in \tau$$ 이며, $$X \in \tau$$<br> (ii) $$\bigcap_{i=1}^n V_n \in \tau$$<br> (iii) $$\{V_\alpha\}$$가 $$\tau$$의 원소들의 모임이라면, $$\bigcup_\alpha V_\alpha \in \tau
 $$
