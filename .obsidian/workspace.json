@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/abstract_algebra/post_2.md",
+                "file": "docs/math/abstract_algebra/post_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/math/abstract_algebra/post_2.md",
+                "file": "docs/math/abstract_algebra/post_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/math/abstract_algebra/post_2.md",
+                "file": "docs/math/abstract_algebra/post_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/abstract_algebra/post_2.md"
+                "file": "docs/math/abstract_algebra/post_1.md"
               }
             }
           }
@@ -177,9 +177,9 @@
   },
   "active": "54ea9784e1fb919c",
   "lastOpenFiles": [
-    "docs/math/analysis/post_1.md",
-    "docs/math/abstract_algebra/post_1.md",
     "docs/math/abstract_algebra/post_2.md",
+    "docs/math/abstract_algebra/post_1.md",
+    "docs/math/analysis/post_1.md",
     "Untitled.canvas",
     "docs/math/abstract_algebra/index.md",
     "docs/math/index.md",
